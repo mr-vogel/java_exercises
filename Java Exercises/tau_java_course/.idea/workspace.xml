@@ -2,7 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48f5fc6f-53bd-4ab3-b98b-044aaaece0a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SeleniumTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/excercises/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/excercises/Banana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/excercises/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter10/excercises/Market.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/ShapeTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/exercises/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/exercises/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/exercises/Farm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter11/exercises/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter12/CollectionsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter12/exercises/GradeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter12/exercises/TestResults.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter13/DividingByZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter13/ExceptionHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter14/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter14/CoinTossGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter14/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter2/GrossPayCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter2/MadLibs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/ChangeGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/GradeMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/LoanQualifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/LogicalOperatorLoanQualifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/QuotaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/SalaryCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter3/TestResults.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter4/AddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter4/AverageTestScores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter4/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter4/GrossPayInputValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter4/LetterSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter4/RollTheDieGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter5/Greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter5/InstantCreditCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter5/PhoneBillCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/HomeAreaCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/HomeAreaCalculatorRedo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/Month.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/MonthConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/PhoneBill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/PhoneBillCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter6/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter7/DayOfTheWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter7/Grades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter7/LotteryTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter8/MikePasswordValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter8/PasswordValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter8/TextProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/InheritanceTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/Mother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/exercises/BirthdayCake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/exercises/Cake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/exercises/TasteTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/out/production/tau_java_course/chapter9/exercises/WeddingCake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/excercises/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/excercises/Banana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/excercises/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter10/excercises/Market.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/ShapeTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/exercises/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/exercises/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/exercises/Farm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter11/exercises/Pig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter12/CollectionsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter12/exercises/GradeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter12/exercises/TestResults.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter13/DividingByZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter13/ExceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter14/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter14/CoinTossGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter14/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter2/GrossPayCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter2/MadLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/ChangeGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/GradeMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/LoanQualifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/LogicalOperatorLoanQualifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/QuotaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/SalaryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter3/TestResults.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter4/AddNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter4/AverageTestScores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter4/Cashier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter4/GrossPayInputValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter4/LetterSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter4/RollTheDieGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter5/Greetings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter5/InstantCreditCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter5/PhoneBillCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/HomeAreaCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/HomeAreaCalculatorRedo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/Month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/MonthConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/PhoneBill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/PhoneBillCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter6/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter7/DayOfTheWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter7/Grades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter7/LotteryTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter8/MikePasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter8/PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter8/TextProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/InheritanceTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/Mother.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/Woman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/exercises/BirthdayCake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/exercises/Cake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/exercises/TasteTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/src/chapter9/exercises/WeddingCake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_course/tau_java_course.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +166,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter14/CoinTossGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="296">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -52,7 +193,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,28 +264,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
+              <item name="tau_java_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tau_java_course" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
+              <item name="tau_java_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tau_java_course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course" type="462c0819:PsiDirectoryNode" />
+              <item name="tau_java_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tau_java_course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter14" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -152,11 +286,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562356391558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562357981070" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -245,53 +380,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="tau_java_course" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="tau_java_course" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.GradeBook" />
       <item itemvalue="Application.ExceptionHandling" />
@@ -324,9 +412,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-59" width="1920" height="1004" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12779553" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12992546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -335,7 +422,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.30811402" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.30811402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,9 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_course.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java_course.iml" />
     <entry file="file://$PROJECT_DIR$/src/chapter2/GrossPayCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -710,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter14/CoinTossGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="296">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
