@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c3ddc65-56fb-41dd-b67a-ebb46a04e136" name="Default Changelist" comment="" />
+    <list default="true" id="6ffdff00-b10e-42ad-916d-5cdc5a759428" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntEqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsDaysCalculator/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MinutesToYearsDaysCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/IntEqualityPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state>
+              <caret selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -23,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+            <state relative-caret-position="90">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -44,8 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/IntEqualityPrinter.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/MinutesToYearsDaysCalculator.java" />
       </list>
     </option>
   </component>
@@ -62,22 +67,27 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MinutesToYearsDaysCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MinutesToYearsDaysCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="IntEqualityPrinter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntEqualityPrinter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntEqualityPrinter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntEqualityPrinter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563897055882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563898787553" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -97,7 +107,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MinutesToYearsDaysCalculator" />
+      <module name="IntEqualityPrinter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,24 +123,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c3ddc65-56fb-41dd-b67a-ebb46a04e136" name="Default Changelist" comment="" />
-      <created>1563896074754</created>
+      <changelist id="6ffdff00-b10e-42ad-916d-5cdc5a759428" name="Default Changelist" comment="" />
+      <created>1563897174158</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563896074754</updated>
+      <updated>1563897174158</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1902" y="-59" width="1902" height="1004" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -159,15 +168,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinutesToYearsDaysCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/IntEqualityPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state>
+          <caret selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
