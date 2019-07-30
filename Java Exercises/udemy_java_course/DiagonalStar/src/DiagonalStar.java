@@ -1,7 +1,7 @@
 public class DiagonalStar {
 
     public static void main(String[] args) {
-        printSquareStar(6);
+        printSquareStar(25);
     }
 
     public static void printSquareStar(int number) {

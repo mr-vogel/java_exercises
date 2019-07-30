@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cf0b1e8-1884-40e2-b0a6-7c1f9fef0923" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/ReadingUserInputChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinAndMaxChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagonalStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagonalStar/out/production/DiagonalStar/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar/out/production/DiagonalStar/DiagonalStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagonalStar/src/DiagonalStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-end-line="15" />
+            <state relative-caret-position="420">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -37,8 +40,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1902" />
-    <option name="y" value="-59" />
+    <option name="x" value="-1831" />
+    <option name="y" value="187" />
     <option name="width" value="1902" />
     <option name="height" value="1004" />
   </component>
@@ -48,6 +51,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,7 +74,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -123,15 +126,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1902" y="-59" width="1902" height="1004" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1831" y="187" width="1902" height="1004" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17150538" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17311828" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -160,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-end-line="15" />
+        <state relative-caret-position="420">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
