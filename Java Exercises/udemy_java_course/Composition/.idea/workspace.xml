@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff06f17-9845-4a26-800c-87dd5f276a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Bookshelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Couch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PoolArea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PoolArea/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eff06f17-9845-4a26-800c-87dd5f276a23" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="465">
+              <caret line="31" column="70" lean-forward="true" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -202,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564767071519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564767300161" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -278,7 +264,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.32800853" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32800853" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -469,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="465">
+          <caret line="31" column="70" lean-forward="true" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
         </state>
       </provider>
     </entry>
