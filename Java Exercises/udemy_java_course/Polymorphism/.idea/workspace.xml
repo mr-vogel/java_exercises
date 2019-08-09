@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6647b069-8b26-43d1-808c-5574fec41b03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SeleniumTutorial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeleniumTutorial/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SeleniumTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeleniumTutorial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6647b069-8b26-43d1-808c-5574fec41b03" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +40,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
     <option name="y" value="-59" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,7 +129,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-59" width="1920" height="1057" extended-state="1" />
+    <frame x="-1920" y="-59" width="1920" height="1004" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
