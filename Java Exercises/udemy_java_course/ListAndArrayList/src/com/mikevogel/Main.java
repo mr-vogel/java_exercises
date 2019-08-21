@@ -36,10 +36,10 @@ public class Main {
                 case 5:
                     searchForItem();
                     break;
+//                case 6:
+//                    processArrayList();
+//                    break;
                 case 6:
-                    processArrayList();
-                    break;
-                case 7:
                     quit = true;
                     break;
             }
@@ -90,6 +90,7 @@ public class Main {
     }
 
     public static void processArrayList() {
+        //examples of how to create copies of array lists
         ArrayList<String> newArray = new ArrayList<String>();
         newArray.addAll(groceryList.getGroceryList());
 
