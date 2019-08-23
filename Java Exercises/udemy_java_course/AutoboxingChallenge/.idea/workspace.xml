@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cefe91d-e60c-4629-98ec-8174e5ca04dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/src/com/mikevogel/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/src/com/mikevogel/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/src/com/mikevogel/Customer.java" afterDir="false" />
+    <list default="true" id="9fa3ea2e-4431-4ffb-a3e2-07e5baebd0a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mikevogel/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="-799">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,17 +31,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mikevogel/GroceryList.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="381">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Branch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="70" column="100" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
               <folding>
-                <element signature="e#138#146#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+              <folding>
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,15 +91,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/mikevogel/GroceryList.java" />
+        <option value="$PROJECT_DIR$/src/com/mikevogel/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/mikevogel/Bank.java" />
+        <option value="$PROJECT_DIR$/src/com/mikevogel/Branch.java" />
         <option value="$PROJECT_DIR$/src/com/mikevogel/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="824" />
+    <option name="x" value="-1920" />
+    <option name="y" value="-59" />
+    <option name="width" value="1920" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -80,21 +112,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ListAndArrayList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListAndArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoboxingChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoboxingChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ListAndArrayList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListAndArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoboxingChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoboxingChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ListAndArrayList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListAndArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="AutoboxingChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoboxingChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mikevogel" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -102,12 +136,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566406199946" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566580141506" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -127,7 +159,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mikevogel.Main" />
-      <module name="ListAndArrayList" />
+      <module name="AutoboxingChallenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -146,31 +178,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0cefe91d-e60c-4629-98ec-8174e5ca04dd" name="Default Changelist" comment="" />
-      <created>1565793200671</created>
+      <changelist id="9fa3ea2e-4431-4ffb-a3e2-07e5baebd0a8" name="Default Changelist" comment="" />
+      <created>1566409688461</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565793200671</updated>
+      <updated>1566409688461</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <frame x="-1920" y="-59" width="1920" height="1004" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23891273" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16986156" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32953367" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -182,33 +215,69 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.32761088" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.32800853" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.3.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="313">
+          <caret line="315" column="15" selection-start-line="315" selection-start-column="15" selection-end-line="315" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#11657#11658#0" expanded="true" />
+            <element signature="e#11704#11705#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mikevogel/GroceryList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Branch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="1020">
+          <caret line="70" column="100" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
           <folding>
-            <element signature="e#138#146#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mikevogel/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -265,7 +334,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ListAndArrayList</last-edited>
+          <last-edited>AutoboxingChallenge</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

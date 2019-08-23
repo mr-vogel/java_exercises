@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd02e96-ba5a-4c87-a2f7-73e8dddee2a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/src/com/mikevogel/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/src/com/mikevogel/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingChallenge/src/com/mikevogel/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,16 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="84" column="53" lean-forward="true" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
-              <folding>
-                <element signature="e#3122#3123#0" expanded="true" />
-                <element signature="e#3177#3178#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="460">
+              <caret line="116" column="42" selection-start-line="116" selection-end-line="117" />
             </state>
           </provider>
         </entry>
@@ -34,11 +31,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="-595">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#1629#1630#0" expanded="true" />
+                <element signature="e#1684#1685#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,15 +44,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="450">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="39" />
               <folding>
                 <element signature="e#0#1271#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,11 +75,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="-59" />
-    <option name="width" value="1920" />
-    <option name="height" value="1004" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -113,12 +104,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565965804137" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566579906942" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -176,21 +167,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-59" width="1920" height="1004" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16986156" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23032904" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32953367" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.329235" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -212,38 +203,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="450">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="39" />
           <folding>
             <element signature="e#0#1271#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="-595">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="84" column="53" lean-forward="true" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
-          <folding>
-            <element signature="e#3122#3123#0" expanded="true" />
-            <element signature="e#3177#3178#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="116" column="42" selection-start-line="116" selection-end-line="117" />
         </state>
       </provider>
     </entry>
