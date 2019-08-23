@@ -25,7 +25,7 @@ public class Customer {
     }
 
     public void addTransaction(double amount) {
-        transactions.add(amount);
+        this.transactions.add(amount);
     }
 
 }
