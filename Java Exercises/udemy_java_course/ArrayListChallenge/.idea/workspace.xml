@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd02e96-ba5a-4c87-a2f7-73e8dddee2a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/mikevogel/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/mikevogel/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AutoboxingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +21,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="1193">
               <caret line="116" column="42" selection-start-line="116" selection-end-line="117" />
             </state>
           </provider>
@@ -25,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="-721">
+              <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#1629#1630#0" expanded="true" />
                 <element signature="e#1684#1685#0" expanded="true" />
@@ -38,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="39" />
+            <state relative-caret-position="255">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="39" />
               <folding>
                 <element signature="e#0#1271#0" expanded="true" />
               </folding>
@@ -70,8 +75,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1835" />
-    <option name="y" value="-5" />
+    <option name="x" value="11" />
+    <option name="y" value="54" />
     <option name="width" value="1440" />
     <option name="height" value="824" />
   </component>
@@ -83,6 +88,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,8 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,15 +167,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1835" y="-5" width="1440" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="11" y="54" width="1440" height="824" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23032904" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23319027" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -199,8 +203,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="39" />
+        <state relative-caret-position="255">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="39" />
           <folding>
             <element signature="e#0#1271#0" expanded="true" />
           </folding>
@@ -209,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="-721">
+          <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#1629#1630#0" expanded="true" />
             <element signature="e#1684#1685#0" expanded="true" />
@@ -220,7 +224,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
+        <state relative-caret-position="1193">
           <caret line="116" column="42" selection-start-line="116" selection-end-line="117" />
         </state>
       </provider>
